@@ -1,0 +1,9 @@
+name: Drupal BigPipe Example
+type: module
+description: Demonstrates Lazy Loading
+package: EPAM
+dependencies:
+  - drupal:block
+
+version: '8.x-1.x-dev'
+core: '8.x'

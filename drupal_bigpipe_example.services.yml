@@ -1,0 +1,4 @@
+services:
+  drupal_bigpipe_example.lazy_loader:
+    class: Drupal\drupal_bigpipe_example\DrupalBigpipeLazyBuilder
+    arguments: []
